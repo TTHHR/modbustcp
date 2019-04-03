@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="rido.modbustcp.Main">
+    <output-path>$PROJECT_DIR$/out/artifacts/rido_modbustcp_Main</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="rido.modbustcp.Main" />
+        <option name="description" value="" />
+        <option name="height" value="600" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="ModBus" />
+        <option name="vendor" value="TTHHR" />
+        <option name="version" value="" />
+        <option name="width" value="800" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="modbusTCP_main.jar">
+        <element id="module-output" name="modbusTCP.main" />
+        <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+      </element>
+    </root>
+  </artifact>
+</component>
